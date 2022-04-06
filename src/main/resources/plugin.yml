@@ -1,0 +1,5 @@
+name: LecternCrashPreventer
+version: '${version}'
+main: com.owen1212055.lecterncrashpreventer.LecternCrashPreventer
+depend: [ ProtocolLib ]
+authors: [ Owen1212055 ]
